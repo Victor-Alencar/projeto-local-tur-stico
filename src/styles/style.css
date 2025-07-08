@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+p {
+  color: #E1624F;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+img {
+  margin-top: 40px;
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+}
+
+main {
+  padding: 88px 80px;
+  width: 1120px;
+  margin: 0 auto;
+}
